@@ -4,10 +4,7 @@
 я это сделал
 <<<<<<< HEAD
 my name Leon
-and I love my cat
-hhh
 =======
-я опять дополниил 
-эту песню
 >>>>>>> 8e3310f1585a6ba0f277eacc897c86c50b3ff5a6
 I change
+pelmeni
