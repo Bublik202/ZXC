@@ -1,10 +1,9 @@
 Цель задания — познакомиться с платформой AutoCode.
 Перейдите в класс HelloAutocode, и напишите простую программу, которая печатает: 
 "Hello, Autocode!" (не печатайте кавычки).
-я это сделал
+я сделал
 <<<<<<< HEAD
-my name Leon
+name Leon
 =======
 >>>>>>> 8e3310f1585a6ba0f277eacc897c86c50b3ff5a6
-I change
-bez arbuza
+
